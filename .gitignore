@@ -1,0 +1,19 @@
+﻿# Dados locais e cadastros
+json/
+extrato/
+notaFiscal/
+
+# Backup
+src-backup/
+
+# Arquivos compilados
+target/
+*.class
+
+# Bibliotecas baixadas localmente
+*.jar
+
+# Configurações locais
+.vscode/
+.idea/
+arquivos-projeto.txt
